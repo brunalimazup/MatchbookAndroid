@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164113403278",
+    "firebase_url": "https://matchbook-e68d0.firebaseio.com",
+    "project_id": "matchbook-e68d0",
+    "storage_bucket": "matchbook-e68d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164113403278:android:700c172fafba26bc21a8df",
+        "android_client_info": {
+          "package_name": "com.company.appmatchbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164113403278-qu4462e9rbsnijrjg83rk6gm9fao871n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KY35Gt92Qv9K_U9Nt0CZwH57DMApoxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164113403278-qu4462e9rbsnijrjg83rk6gm9fao871n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
